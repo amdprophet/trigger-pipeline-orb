@@ -3,5 +3,5 @@ version: 2.1
 description: Common CircleCI tasks for triggering CircleCI pipelines.
 
 display:
-  source_url: https://github.com/amdprophet/trigger-pipeline-orb
-  home_url: https://github.com/amdprophet/trigger-pipeline-orb
+  source_url: https://github.com/sensu/trigger-pipeline-orb
+  home_url: https://github.com/sensu/trigger-pipeline-orb
